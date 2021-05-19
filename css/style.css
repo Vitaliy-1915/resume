@@ -1,0 +1,247 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f3f5f8;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: Montserrat;
+}
+
+.wrapper {
+  background: #fff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-foto {
+  width: 370px;
+}
+
+.abaut-me-conteiner {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.contacts-conteiner {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 60px;
+}
+
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.contacts-link {
+  color: #798089;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.tech-skills-conteiner {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+
+.tech-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.tech-skills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #d55f11;
+}
+
+.tech-skills-text {
+  color: #b3b7bc;
+}
+
+.soft-skills-conteiner {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+
+.soft-skills-titel {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.soft-skills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #ff6b08;
+}
+
+.soft-skills-text {
+  color: #d1d3d7;
+}
+
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+  color: #696969;
+}
+
+.me-info-conteiner {
+  margin-bottom: 65px;
+}
+
+.abaut-me-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.projects-link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.tech-name {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.points {
+  color: #595959;
+  font-weight: 100;
+}
+
+.projects-item {
+  font-weight: 700;
+  margin-left: 17px;
+}
+
+.projects-conteiner {
+  margin-bottom: 55px;
+}
+
+.profession-titel {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.profession-company {
+  color: #ff7c25;
+}
+
+.profession-time {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #a4a4a4;
+}
+
+.profession-divaider {
+  color: black;
+}
+
+.profession-duties {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.profession-duties-item {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.educations {
+  margin-top: 55px;
+}
+
+.educations-type {
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.educations-profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+
+.educations-time {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #a4a4a4;
+}
+
+.educations-divaider {
+  color: black;
+}
